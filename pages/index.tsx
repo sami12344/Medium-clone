@@ -40,36 +40,38 @@ export default function Home({ posts }: Props) {
           alt=""
         />
       </div>
- 
-        <div className="mx-auto grid max-w-7xl grid-cols-1 gap-3 p-2 sm:grid-cols-2 md:gap-6 md:p-6 lg:grid-cols-3 shadow-black stroke-black">
-          {posts.map((post) => {
-            return (
-              <Link key={post._id} href={`/post/${post.slug.current}`}>
-                <div className="group h-full cursor-pointer overflow-hidden rounded-lg border ">
-                  <img
-                    className=" w-full object-cover transition-transform duration-200 ease-in-out group-hover:scale-105  "
-                    src={urlFor(post.mainImage).url()!}
-                    alt=""
-                  />
-                  <div className="flex justify-between bg-white p-5">
-                    <div>
-                      <p className="text-lg font-bold">{post.title}</p>
-                      <p className="text-xs">
-                        {post.description} by {post.author.name}
-                      </p>
-                    </div>
+
+      <div className="mx-auto grid max-w-7xl grid-cols-1 gap-3 stroke-black p-2 shadow-black sm:grid-cols-2 md:gap-6 md:p-6 lg:grid-cols-3">
+        {posts.map((post) => {
+          return (
+            <Link key={post._id} href={`/post/${post.slug.current}`}>
+              <div className="group h-full cursor-pointer overflow-hidden rounded-lg border ">
+                <img
+                  className=" w-full object-cover transition-transform duration-200 ease-in-out group-hover:scale-105  "
+                  src={urlFor(post.mainImage).url()!}
+                  alt=""
+                />
+                <div className="flex justify-between bg-white p-5">
+                  <div className=' flex flex-col justify-center items-start flex-1'>
+                    <p className="text-lg font-bold">{post.title}</p>
+                    <p className="text-xs">
+                      {post.description} by {post.author.name}
+                    </p>
+                  </div>
+                  <div className='flex items-center justify-center '>
                     <img
-                      className="h-12 w-12 rounded-full object-cover"
+                      className=" h-14 w-14 object-cover rounded-full"
                       src={urlFor(post.author.image).url()!}
                       alt=""
                     />
                   </div>
                 </div>
-              </Link>
-            )
-          })}
-        </div>
-   
+              </div>
+            </Link>
+          )
+        })}
+      </div>
+
       <Footer></Footer>
     </main>
   )

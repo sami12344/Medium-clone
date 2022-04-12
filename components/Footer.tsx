@@ -1,4 +1,3 @@
-import React from 'react'
 import {
   BsFacebook,
   BsGithub,
@@ -9,9 +8,8 @@ import {
 
 const Footer = () => {
   return (
-    <div className=" w-full rounded-md border-2 bg-black py-5 px-3 text-white">
-     
-      <div className="flex h-6 w-full my-2 items-center justify-between">
+    <div className=" w-full overflow-x-hidden rounded-md border-2 bg-black py-5 px-3 text-white">
+      <div className="my-2 flex h-6 w-full items-center justify-between">
         <img
           src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"
           className="h-10 "
@@ -50,8 +48,10 @@ const Footer = () => {
       </div>
 
       <div>
-        <hr className='my-2 '/>
-        <p className="text-center">Copyright © 2022 by <span className='font-bold'> Sami Islam</span></p>
+        <hr className="my-2 " />
+        <p className="text-center">
+          Copyright © 2022 by <span className="font-bold"> Sami Islam</span>
+        </p>
       </div>
     </div>
   )

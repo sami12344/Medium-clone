@@ -71,7 +71,7 @@ function Post({ post }: Props) {
             alt=""
           />
           <p className="text-sm font-extralight">
-            Blog post by
+            {`Blog post by `}
             <span className="font-semibold text-green-600">
               {post.author.name}
             </span>
