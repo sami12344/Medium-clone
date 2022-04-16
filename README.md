@@ -14,11 +14,13 @@ It's a fullstack blog site. Kind of cloned the Medium site.My  target is to lear
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-## Techonologies
-The technologies are used to make this site are :
+
 
 ## Link to the site
 https://samimedium.vercel.app/
+
+## Techonologies
+The technologies are used to make this site are :
 
 - NEXT. JS
 - Tailwind CSS
