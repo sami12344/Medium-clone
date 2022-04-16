@@ -1,27 +1,49 @@
-Next.js is an open-source web development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites. React documentation mentions Next.js among "Recommended Toolchains" advising it to developers as a solution when "Building a server-rendered website with Node.js".Where traditional React apps can only render their content in the client-side browser, Next.js extends this functionality to include applications rendered on the server side.
-<br>
-The copyright and trademarks for Next.js are owned by company Vercel, formerly ZEIT, which also maintains and leads its open-source development.
-<br><br><br><br><br>
-Sanity is the platform for structured content that lets teams build exceptional digital experiences. By treating content as data, modern organizations use our APIs to build optimal editing workflows and share content between systems to increase digital velocity. Our mission is to be the most versatile system for creating and distributing digital content to any device, application or channel.
-<br><br><br><br><br>
 
-A next js project. A blog site which is created with Next.JS, Tailwind CSS, Sanity CMS. Full fuctional blog site.
-<br><br><br><br><br><br><br><br>
+# Blog site (Next.JS + Sanity CMS)
+
+It's a fullstack blog site. Kind of cloned the Medium site.My  target is to learn more, develop my skill. I made this site to show my potentiality.
+## Badges
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Techonologies
+The technologies are used to make this site are :
+
+- NEXT. JS
+- Tailwind CSS
+- React. JS
+- React-Form-hook
+- React-Portable-Text
+- React-Icons
+- Typescript
+- Sanity CMS
+- GROQ database
+- Increamental Static Regeneration
+- Server-side Rendering
+ 
+## Features
+
+- Content managed by Sanity CMS
+- Regenerate the page after 60s 
+- Commenting system
+- Fast and smooth
+- Well designed with Tailwind
 
 
-In dektop:
-<br><br><br><br><br><br>
-![Medium (1)](https://user-images.githubusercontent.com/77746252/163046625-2068d7ba-dd01-4e75-ba14-4a5a1454cfef.png)
-<br><br><br><br><br><br><br>
-![Tesla Roadstar (1)](https://user-images.githubusercontent.com/77746252/163046684-4c37c864-68d2-4323-8f60-057c8ab1dfa5.png)
-<br><br><br><br><br><br>
-<br>
 
+## Screenshots
+ This site looks like this in Large screens :
+ 
 
+## Demo
 
-In mobile:
-<br><br><br><br><br><br><br>
-![Medium (3)](https://user-images.githubusercontent.com/77746252/163047363-878bd6e4-d799-4ce6-9b4d-e715b7fffd2b.png)
-<br><br><br><br><br><br><br><br>
-![Tesla Roadstar (2)](https://user-images.githubusercontent.com/77746252/163047365-39658da8-46c6-465c-95cc-81655be5230b.png)
-<br><br><br><br>
+Insert gif or link to demo
+
