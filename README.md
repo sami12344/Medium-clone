@@ -17,6 +17,9 @@ It's a fullstack blog site. Kind of cloned the Medium site.My  target is to lear
 ## Techonologies
 The technologies are used to make this site are :
 
+## Link to the site
+https://samimedium.vercel.app/
+
 - NEXT. JS
 - Tailwind CSS
 - React. JS
@@ -40,10 +43,33 @@ The technologies are used to make this site are :
 
 
 ## Screenshots
+
+#In large screens:
  This site looks like this in Large screens :
  
+![Medium (1)](https://user-images.githubusercontent.com/77746252/163692432-52f3ee8a-b92a-433e-b312-040db08f2f99.png)
+<br>
+<br>
+
+<br>
+
+![Tesla Roadstar (1)](https://user-images.githubusercontent.com/77746252/163692447-dffb98dc-fa2f-4ad8-81e5-5e064ad8c564.png)
+<br>
+<br>
+<br>
+
+#In small screens:
+ This site looks like this in small screens :
+ 
+![Medium (2)](https://user-images.githubusercontent.com/77746252/163692482-0609ab5e-1af1-4873-a914-46b052022960.png)
+<br>
+<br>
+<br>
+![Tesla Roadstar (2)](https://user-images.githubusercontent.com/77746252/163692488-6264d4be-94f6-455e-aae8-9aee5a54004e.png)
 
 ## Demo
+Here is the demo of the site
+![screen-capture (1) (1)](https://user-images.githubusercontent.com/77746252/163692397-70eb6053-224e-45e7-a7c9-41395e2e9d7f.gif)
 
-Insert gif or link to demo
+
 
