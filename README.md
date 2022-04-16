@@ -40,11 +40,15 @@ https://samimedium.vercel.app/
 - Fast and smooth
 - Well designed with Tailwind
 
+## Demo
+Here is the demo of the site
+<br>
 
+![screen-capture (1) (1)](https://user-images.githubusercontent.com/77746252/163692397-70eb6053-224e-45e7-a7c9-41395e2e9d7f.gif)
 
 ## Screenshots
 
-#In large screens:
+##In large screens:
  This site looks like this in Large screens :
  
 ![Medium (1)](https://user-images.githubusercontent.com/77746252/163692432-52f3ee8a-b92a-433e-b312-040db08f2f99.png)
@@ -58,7 +62,7 @@ https://samimedium.vercel.app/
 <br>
 <br>
 
-#In small screens:
+##In small screens:
  This site looks like this in small screens :
  
 ![Medium (2)](https://user-images.githubusercontent.com/77746252/163692482-0609ab5e-1af1-4873-a914-46b052022960.png)
@@ -66,10 +70,6 @@ https://samimedium.vercel.app/
 <br>
 <br>
 ![Tesla Roadstar (2)](https://user-images.githubusercontent.com/77746252/163692488-6264d4be-94f6-455e-aae8-9aee5a54004e.png)
-
-## Demo
-Here is the demo of the site
-![screen-capture (1) (1)](https://user-images.githubusercontent.com/77746252/163692397-70eb6053-224e-45e7-a7c9-41395e2e9d7f.gif)
 
 
 
